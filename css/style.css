@@ -1,0 +1,95 @@
+/************** HEADER  **************/    
+
+/** NAVBAR **/
+.container{
+    display: flex;
+    justify-content: center;
+}
+.center {
+    position: relative;
+    top: 25%;
+    left: 25%;
+    width: 50%;
+}
+.navbar{
+    background: #f4f4f4 ;
+}
+.navbar-brand {
+    background-color: #ffffff;
+    height: 7.625rem;
+    width: 7.625rem;
+}
+.navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem ;
+    color: black;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+}
+.nav-item {
+    margin-left: 3rem ; 
+}
+.nav-link:hover {
+    font-weight: bold;
+    
+}
+.nav-link:active, .nav-link:focus {
+    
+}
+.nav-link {
+    font-size: 30px;
+    font-family: 'Lato';
+    color: #616060;
+}
+/*SECTION*/
+.page-section {
+max-width: 100%;
+height: auto;
+padding-top: 5rem;
+background-position: center center;
+background-size: cover;
+border: solid red 2px;
+
+}
+.first-section-content {
+max-width: 100%;
+height: auto;
+border: solid blue 2px;
+}
+h1{
+    text-transform: capitalize;
+    font-family:'Playfair Display SC',serif;
+    font-weight: 300;
+}    
+#textFoulen{
+    text-indent: 50px; 
+}
+
+.section2-title{
+color: #bc694e;
+}
+.date{
+color: #848484;
+}
+#briefCase{
+color: #333333;
+}
+#chose{
+border: solid green 2px;
+}
+#EXP1{
+border: solid red 2px;
+margin-top: 5%;
+}
+.workDiv h2 {
+border: solid black 2px;
+display: inline-block;
+}
+.workDiv i {
+font-size: 24px;
+border: solid red 2px;
+}
+.workDiv{
+display: inline-block;
+}
