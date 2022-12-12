@@ -242,7 +242,7 @@ display: inline-block;
   }
   
   .backgroundImage {
-    background-image: url("../images/background.png");
+    background-image: url("/img/background.png");
     height: 440px;
     display: flex;
     justify-content: center;
