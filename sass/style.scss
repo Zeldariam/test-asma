@@ -1,0 +1,177 @@
+.container 
+	border: solid red 2px 
+.container2 
+	flex-direction: column 
+.center 
+	position: relative 
+	top: 25% 
+	left: 25% 
+	width: 50% 
+.navbar 
+	background: #f4f4f4 
+.navbar-brand 
+	background-color: #ffffff 
+	height: 7.625rem 
+	width: 7.625rem 
+.navbar-toggler 
+	padding: 0.25rem 0.75rem 
+	font-size: 1.25rem 
+	color: black 
+	background-color: transparent 
+	border: 1px solid transparent 
+	border-radius: 0.25rem 
+.nav-item 
+	margin-left: 3rem 
+.nav-link 
+	font-size: 30px 
+	font-family: 'Lato' 
+	color: #616060 
+	&:hover 
+		font-weight: bold 
+.nav-link:active, .nav-link:focus 
+.intro 
+	section 
+		display: flex 
+.page-section 
+	max-width: 100% 
+	height: auto 
+	padding-top: 5rem 
+	background-position: center center 
+	background-size: cover 
+.first-section-content 
+	max-width: 100% 
+	height: auto 
+h1 
+	text-transform: capitalize 
+	font-family: 'Playfair Display SC',serif 
+	font-weight: 300 
+#textFoulen 
+	text-indent: 50px 
+.section2-title 
+	color: #bc694e 
+.date 
+	color: #848484 
+	font-size: 24px 
+	line-height: 25px 
+	color: #848484 
+	font-weight: 400 
+	font-family: "Lato" 
+	margin-top: 20px 
+#briefCase 
+	color: #333333 
+#chose 
+#EXP1 
+	margin-top: 5% 
+.workDiv 
+	display: inline-block 
+	h2 
+		border: solid black 2px 
+		display: inline-block 
+	i 
+		font-size: 24px 
+.title, .title1 
+	font-size: 3rem 
+	font-family: "PlayfairDisplaySC-Bold" 
+.title1 
+	color: #151515 
+.footer 
+	height: 7.25rem 
+	background-color: #f4f4f4 
+.section03 
+	position: relative 
+	top: 2.3rem 
+.section04 
+	width: 100% 
+.text 
+	color: #bc694e 
+	font-size: 35px !important 
+	font-weight: 500 
+.text1 
+	color: #4f4f4f 
+	font-weight: bold 
+.jobTitle 
+	display: flex 
+	justify-content: flex-start 
+	align-items: flex-start 
+	h1 
+		margin-left: 4% 
+	.div1 
+		display: flex 
+		flex-direction: column 
+.flex1 
+	display: flex 
+	flex-direction: row 
+	align-items: center 
+	border: solid red 2px 
+	i 
+		font-size: 35px 
+	h1 
+		position: relative 
+		right: 19% 
+.iWork 
+	position: relative 
+	right: 20% 
+.tx 
+	font-weight: normal 
+.workTitle 
+	font-size: 35px 
+	letter-spacing: -1px 
+	line-height: 41px 
+	color: #bc694e 
+	font-weight: 700 
+	font-family: "Playfair Display SC" 
+	margin-top: 130px 
+.bagIcon 
+	margin-top: 140px 
+	font-size: 35px 
+	color: #333333 
+.experience 
+	font-size: 30px 
+	line-height: 25px 
+	color: #4f4f4f 
+	font-weight: 700 
+	font-family: "Lato" 
+	margin-top: 10px 
+.position 
+	font-size: 18px 
+	line-height: 25px 
+	color: #848484 
+	font-weight: 400 
+	font-family: "Lato" 
+	margin-rop: 10px 
+.awardText 
+	font-size: 24px 
+	line-height: 28px 
+	color: #4f4f4f 
+	font-weight: 400 
+	font-family: "Lato" 
+	margin-top: 20px 
+.backgroundImage 
+	background-image: url("/img/background.png") 
+	height: 440px 
+	display: flex 
+	justify-content: center 
+.backgroundText 
+	font-size: 35px 
+	line-height: 42px 
+	color: #ffffff 
+	font-weight: 700 
+	font-family: "Playfair Display SC" 
+	padding: 20px 
+	padding-left: 35px 
+	border: 3px solid white 
+	width: 600px 
+	height: 140px 
+	margin-top: 30px 
+.footerBackground 
+	height: 130px 
+	display: flex 
+	justify-content: space-around 
+	align-items: center 
+.copyright 
+	font-size: 18px 
+	line-height: 0px 
+	color: #141414 
+	font-weight: 400 
+	font-family: "Lato" 
+	text-align: left 

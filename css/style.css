@@ -2,14 +2,14 @@
 
 /** NAVBAR **/
 .container{
-    display: flex;
-    justify-content: center;
   
+    border: solid red 2px;
 }
 .container2{
     flex-direction: column;
     
 }
+
 .center {
     position: relative;
     top: 25%;
@@ -48,7 +48,11 @@
     color: #616060;
 }
 /*SECTION*/
+.intro section {
+    display: flex;
+}
 .page-section {
+ 
 max-width: 100%;
 height: auto;
 padding-top: 5rem;
@@ -114,25 +118,7 @@ display: inline-block;
     background-color: #f4f4f4;
   }
   
-  .bi-instagram {
-    font-size: 1.3rem;
-  }
-  
-  .bi-github {
-    font-size: 1.3rem;
-  }
-  
-  .bi-discord {
-    font-size: 1.3rem;
-  }
-  
-  .bi-slack {
-    font-size: 1.3rem;
-  }
-  
-  .bi-youtube {
-    font-size: 1.3rem;
-  }
+
   
   .section03 {
     position: relative;
@@ -187,7 +173,6 @@ display: inline-block;
   .tx{
     font-weight: normal;
   }
-  
   
 .workTitle {
     font-size: 35px;
